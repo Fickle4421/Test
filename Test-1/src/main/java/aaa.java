@@ -12,6 +12,7 @@ public class aaa {
         HashMap<Object, Object> map = new HashMap<>();
         map.put("1", "1");
         map.put("2", "2");
+        map.put("3", "3");
 
     }
 
