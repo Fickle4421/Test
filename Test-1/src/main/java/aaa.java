@@ -10,8 +10,8 @@ public class aaa {
         System.out.println(111);
         System.out.println(Math.round(-1.6));
         HashMap<Object, Object> map = new HashMap<>();
-
-
+        map.put("1", "1");
+        map.put("2", "2");
 
     }
 
