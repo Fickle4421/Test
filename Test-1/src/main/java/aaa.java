@@ -15,6 +15,7 @@ public class aaa {
         map.put("3", "3");
         map.put("4", "466666");
         map.put("4", "4");
+        map.put("aaa",666);
 
     }
 
